@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-doc/sphinxext-opengraph/commit/95cf8a8c30c301343f8347c5d72a97030e007f34",
       "git:hexsha": "95cf8a8c30c301343f8347c5d72a97030e007f34",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.13.0"
     },
     {

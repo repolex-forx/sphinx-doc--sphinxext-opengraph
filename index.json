@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-doc",
+  "repo": "sphinxext-opengraph",
+  "versions": [
+    {
+      "commit": "95cf8a8c30c301343f8347c5d72a97030e007f34",
+      "tag": "v0.13.0",
+      "parsed_at": "2026-10-11T23:11:51.238856+00:00"
+    }
+  ]
+}

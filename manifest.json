@@ -124,7 +124,8 @@
           "githubUrl": "https://github.com/executablebooks/sphinx-design",
           "source": "build_file:pyproject.toml"
         }
-      ]
+      ],
+      "dep": "dep/95cf8a8c30c301343f8347c5d72a97030e007f34.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",

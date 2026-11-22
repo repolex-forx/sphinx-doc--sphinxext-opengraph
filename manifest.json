@@ -83,7 +83,48 @@
       "ast": [
         "aggregate/ast/95cf8a8c30c301343f8347c5d72a97030e007f34/chunk-001.nq.gz"
       ],
-      "repolex": "aggregate/repolex/95cf8a8c30c301343f8347c5d72a97030e007f34/chunk-001.nq.gz"
+      "repolex": "aggregate/repolex/95cf8a8c30c301343f8347c5d72a97030e007f34/chunk-001.nq.gz",
+      "lsp": "aggregate/lsp/95cf8a8c30c301343f8347c5d72a97030e007f34.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "sphinx",
+          "ecosystem": "PYPI",
+          "version": "6.0",
+          "githubOrg": "sphinx-doc",
+          "githubRepo": "sphinx",
+          "githubUrl": "https://github.com/sphinx-doc/sphinx",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "matplotlib",
+          "ecosystem": "PYPI",
+          "version": "3",
+          "githubOrg": "matplotlib",
+          "githubRepo": "matplotlib",
+          "githubUrl": "https://github.com/matplotlib/matplotlib",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "furo",
+          "ecosystem": "PYPI",
+          "version": "2024",
+          "githubOrg": "pradyunsg",
+          "githubRepo": "furo",
+          "githubUrl": "https://github.com/pradyunsg/furo",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx-design",
+          "ecosystem": "PYPI",
+          "version": "0.8.0",
+          "githubOrg": "executablebooks",
+          "githubRepo": "sphinx-design",
+          "githubCommit": "fcaa5b34945a1ce06de1fcc514b0f22f64403a73",
+          "githubTag": "v0.8.0",
+          "githubUrl": "https://github.com/executablebooks/sphinx-design",
+          "source": "build_file:pyproject.toml"
+        }
+      ]
     }
   ],
   "commit": "commit/commit.nq.gz",

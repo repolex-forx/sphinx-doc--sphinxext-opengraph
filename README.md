@@ -38,6 +38,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   ├── ast
 │   │   └── 95cf8a8c30c301343f8347c5d72a97030e007f34
 │   │       └── chunk-001.nq.gz
+│   ├── lsp
+│   │   └── 95cf8a8c30c301343f8347c5d72a97030e007f34.nq.gz
 │   └── repolex
 │       └── 95cf8a8c30c301343f8347c5d72a97030e007f34
 │           └── chunk-001.nq.gz
@@ -116,6 +118,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
+├── dep
+│   └── 95cf8a8c30c301343f8347c5d72a97030e007f34.nq.gz
 ├── filetree
 │   └── 95cf8a8c30c301343f8347c5d72a97030e007f34.nq.gz
 ├── issue
@@ -125,7 +129,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-13 directories, 78 files
+15 directories, 80 files
 ```
 
 | Directory | What it contains |
@@ -146,4 +150,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [sphinx-doc/sphinxext-opengraph](https://github.com/sphinx-doc/sphinxext-opengraph)
 
 ---
-*Parsed on 2026-10-11 by [repolex](https://repolex.ai)*
+*Parsed on 2026-11-22 by [repolex](https://repolex.ai)*
